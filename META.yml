@@ -21,4 +21,4 @@ requires:
   local::lib: 0
 resources:
   repository: git://github.com/apparentlymart/perl-local-env.git
-version: 0.02
+version: 0.03
